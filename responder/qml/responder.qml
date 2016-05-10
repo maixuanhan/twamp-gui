@@ -7,6 +7,8 @@ import QtQuick.Window 2.1
 ApplicationWindow {
     id: window
     visible: true
+    width: 640
+    height: 480
     property int margin: 10
     title: qsTr("Twamp Responder")
 
