@@ -4,3 +4,12 @@
 deployment.pri
 Makefile
 build
+client/.moc
+common/.moc
+responder/.moc
+client/.rcc
+responder/.rcc
+common/*.a
+client/twamp-client
+responder/twamp-responder
+
